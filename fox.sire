@@ -423,7 +423,7 @@
   </UseNewSkill>
   <ShowRate enable="false"></ShowRate>
   <PerfectRate enable="false"></PerfectRate>
-  <FireTriggerFix enable="false"></FireTriggerFix>
+  <FireTriggerFix enable="true"></FireTriggerFix>
   <FireDamageFix enable="false"></FireDamageFix>
   <OverflowFix enable="false"></OverflowFix>
   <CalculateFix enable="false"></CalculateFix>
@@ -447,7 +447,7 @@
   <AIAtkAndTrans enable="false"></AIAtkAndTrans>
   <AIArmyPolicy enable="false">0</AIArmyPolicy>
   <AIGeneralSelect enable="false"></AIGeneralSelect>
-  <AISkillAlignToArmy enable="false"></AISkillAlignToArmy>
+  <AISkillAlignToArmy enable="true"></AISkillAlignToArmy>
   <AIUseReactFeature enable="false"></AIUseReactFeature>
   <AIResINC enable="false" MINC="1000" RINC="5000" SINC="2000" EINC="1000" HINC="1000"></AIResINC>
   <AIAppoint enable="false" Gao="6" Wen="12" Wu="5"></AIAppoint>
