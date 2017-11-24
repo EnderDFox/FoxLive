@@ -32,7 +32,7 @@
   <TransitPlus enable="false">40</TransitPlus>
   <EliteADPlus enable="false">10</EliteADPlus>
   <LvADPlus enable="false">10</LvADPlus>
-  <ArmyShareAbility enable="false"></ArmyShareAbility>
+  <ArmyShareAbility enable="true"></ArmyShareAbility>
   <CityEat enable="false">250</CityEat>
   <WideEat enable="false">1000</WideEat>
   <HorseEat enable="false"></HorseEat>
@@ -74,7 +74,7 @@
   <SpecialPKBase enable="false">0</SpecialPKBase>
   <SpecialInjBurst enable="false">1</SpecialInjBurst>
   <SpecialInjBase enable="false" Base1="0" Base2="1" Base3="2"></SpecialInjBase>
-  <SpecialCapNoHalf enable="false"></SpecialCapNoHalf>
+  <SpecialCapNoHalf enable="true"></SpecialCapNoHalf>
   <SpecialCapJI enable="false">30</SpecialCapJI>
   <SpecialCapBase enable="false">0</SpecialCapBase>
   <SpecialChaosBurst enable="false">100</SpecialChaosBurst>
@@ -166,7 +166,7 @@
   <EmptyArea enable="false"></EmptyArea>
   <DevelopSpeed enable="false">100</DevelopSpeed>
   <DevelopLimit enable="false"></DevelopLimit>
-  <CombineForbidden enable="false"></CombineForbidden>
+  <CombineForbidden enable="true"></CombineForbidden>
   <DirectBuild enable="true"></DirectBuild>
   <BigMarketMul enable="false"></BigMarketMul>
   <AllEcoMul enable="false"></AllEcoMul>
@@ -178,7 +178,7 @@
   <HorseProduce enable="false" Spec="100" NonSpec="100"></HorseProduce>
   <Machine enable="false">10</Machine>
   <Dockyard enable="false">10</Dockyard>
-  <DockOnlyAtPort enable="false"></DockOnlyAtPort>
+  <DockOnlyAtPort enable="true"></DockOnlyAtPort>
   <RecruitFee enable="false">300</RecruitFee>
   <SpecialOff enable="false">80</SpecialOff>
   <ProdByPolitics enable="false"></ProdByPolitics>
@@ -422,7 +422,7 @@
     
   </UseNewSkill>
   <ShowRate enable="false"></ShowRate>
-  <PerfectRate enable="false"></PerfectRate>
+  <PerfectRate enable="true"></PerfectRate>
   <FireTriggerFix enable="true"></FireTriggerFix>
   <FireDamageFix enable="false"></FireDamageFix>
   <OverflowFix enable="false"></OverflowFix>
