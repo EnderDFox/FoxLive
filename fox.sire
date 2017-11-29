@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Config><AbilityLimit enable="false">100</AbilityLimit>
-  <AbilityExpLimit enable="false">30</AbilityExpLimit>
+<Config><AbilityLimit enable="true">250</AbilityLimit>
+  <AbilityExpLimit enable="true">250</AbilityExpLimit>
   <AbilityTrainLimit enable="false">20</AbilityTrainLimit>
   <LevelName lv0name="Ｃ" lv1name="Ｂ" lv2name="Ａ" lv3name="Ｓ" lv4name="S1" lv5name="S2" lv6name="S3" lv7name="S4" lv8name="S5" lv9name="S6" lv10name="S7" lv11name="S8" lv12name="S9" lv13name="极" lv14name="神" lv15name="圣"></LevelName>
-  <LvLimitAndExp enable="false" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">3</LvLimitAndExp>
+  <LvLimitAndExp enable="true" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">15</LvLimitAndExp>
   <ABExpGain enable="false" AB0="0" AB1="0" AB2="0" AB3="0" AB4="0"></ABExpGain>
   <LvExpGain enable="false" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0"></LvExpGain>
   <ABTrainLimit enable="false" Low="70" Medium="80" High="95"></ABTrainLimit>
@@ -125,8 +125,8 @@
   <RecoverMin enable="false">150</RecoverMin>
   <RecoverMax enable="false">450</RecoverMax>
   <NormalRecover enable="false"></NormalRecover>
-  <KeepCaptive enable="false"></KeepCaptive>
-  <CaptiveNoCost enable="false"></CaptiveNoCost>
+  <KeepCaptive enable="true"></KeepCaptive>
+  <CaptiveNoCost enable="true"></CaptiveNoCost>
   <AllGGIncome enable="false"></AllGGIncome>
   <NoneIncome enable="false"></NoneIncome>
   <NormalRecruit enable="false"></NormalRecruit>
@@ -137,7 +137,7 @@
   <DefenceToGJ enable="false">20</DefenceToGJ>
   <DefEnhenceMul enable="false">200</DefEnhenceMul>
   <DefAtkMul enable="false">80</DefAtkMul>
-  <AreaAutoAttack enable="false"></AreaAutoAttack>
+  <AreaAutoAttack enable="true"></AreaAutoAttack>
   <BADamage enable="false" JL="300" LN="500" TS="900"></BADamage>
   <BARange enable="false" JL="2" LN="3" TS="3"></BARange>
   <BCDamage enable="false" ZH="400" ZI="600" CS="800"></BCDamage>
@@ -153,7 +153,7 @@
   <SBProb enable="false">100</SBProb>
   <SBEffect enable="false">0</SBEffect>
   <SBEffectMax enable="false">2</SBEffectMax>
-  <CancelDistance enable="false"></CancelDistance>
+  <CancelDistance enable="true"></CancelDistance>
   <BuildSpeed enable="false">100</BuildSpeed>
   <BuildLimit enable="false" Fix="405" Rand="10"></BuildLimit>
   <GHBase enable="false" Prop="0" Range="1" Threshold1="90" Threshold2="96" Threshold3="100" Mul="50" Min="5" Max="50"></GHBase>
