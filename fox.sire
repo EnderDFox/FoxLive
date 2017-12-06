@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Config><AbilityLimit enable="true">250</AbilityLimit>
-  <AbilityExpLimit enable="true">250</AbilityExpLimit>
+<Config><AbilityLimit enable="false">250</AbilityLimit>
+  <AbilityExpLimit enable="true">100</AbilityExpLimit>
   <AbilityTrainLimit enable="false">20</AbilityTrainLimit>
   <LevelName lv0name="Ｃ" lv1name="Ｂ" lv2name="Ａ" lv3name="Ｓ" lv4name="S1" lv5name="S2" lv6name="S3" lv7name="S4" lv8name="S5" lv9name="S6" lv10name="S7" lv11name="S8" lv12name="S9" lv13name="极" lv14name="神" lv15name="圣"></LevelName>
   <LvLimitAndExp enable="true" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">15</LvLimitAndExp>
@@ -369,7 +369,7 @@
     <Skill97 prop0="风水" prop1="所属都市不容易出现蝗灾、瘟疫" prop2="灾害" prop3="2" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill97>
     <Skill98 prop0="祈願" prop1="所属都市容易出现豐收" prop2="灾害" prop3="2" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill98>
     <Skill99 prop0="内助" prop1="若结婚，双方的能力全部＋１" prop2="关系" prop3="2" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill99>
-    <Skill100 prop0="保留" prop1="保留" prop2="" prop3="1" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill100>
+    <Skill100 prop0="不灭" prop1="" prop2="攻击" prop3="4" prop4="22-攻心" prop5="0-飞将" prop6="10-威风" prop7="75-奏乐" prop8="40-神将" prop9="2-强行" prop10="32-强运" prop11="27-不屈" prop12="OOOOOO"></Skill100>
     <Skill101 prop0="保留" prop1="保留" prop2="" prop3="1" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill101>
     <Skill102 prop0="保留" prop1="保留" prop2="" prop3="1" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill102>
     <Skill103 prop0="保留" prop1="保留" prop2="" prop3="1" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="XXXXXX"></Skill103>
@@ -421,7 +421,7 @@
     <Skill149 prop0="武干" prop1="令未达到统率光环要求的主帅获得基础统率光环，否则光环范围加１格" prop2="补助" prop3="4" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="OOOOOO"></Skill149>
     
   </UseNewSkill>
-  <ShowRate enable="false"></ShowRate>
+  <ShowRate enable="true"></ShowRate>
   <PerfectRate enable="true"></PerfectRate>
   <FireTriggerFix enable="true"></FireTriggerFix>
   <FireDamageFix enable="false"></FireDamageFix>
@@ -446,7 +446,7 @@
   <RebellionType enable="false" TypeL1="4" TypeL2="1" TypeL3="4" TypeL4="2" TypeL5="0" TypeS1="0" TypeS2="2" TypeS3="0" TypeS4="2" TypeS5="0"></RebellionType>
   <AIAtkAndTrans enable="false"></AIAtkAndTrans>
   <AIArmyPolicy enable="false">0</AIArmyPolicy>
-  <AIGeneralSelect enable="false"></AIGeneralSelect>
+  <AIGeneralSelect enable="true"></AIGeneralSelect>
   <AISkillAlignToArmy enable="true"></AISkillAlignToArmy>
   <AIUseReactFeature enable="false"></AIUseReactFeature>
   <AIResINC enable="false" MINC="1000" RINC="5000" SINC="2000" EINC="1000" HINC="1000"></AIResINC>
